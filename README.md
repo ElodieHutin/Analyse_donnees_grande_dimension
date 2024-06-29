@@ -5,4 +5,4 @@
 Dans ce projet, nous avons exploré les caractéristiques chimiques des vins rouges et blancs pour **prédire leur qualité**. Nous avons développé des **modèles de régression** pour estimer la qualité globale de chaque vin en fonction de ses composants chimiques. De plus, nous avons cherché à **classifier les vins** en catégories telles que "excellent" et "non-excellent" en se basant sur ces mêmes caractéristiques.
 
 
-<h3 align="left">Projet réalisé en <a href="https://www.python.org"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
+<h3 align="left">Projet réalisé en <a href="https://www.python.org"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
